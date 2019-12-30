@@ -1,7 +1,4 @@
 This is sub branch text.
-<<<<<<< HEAD
 This is edited by Anas.
-=======
 This is edited by Knight.
->>>>>>> 616480955d52afb63fd6f78ae03f1e7ab6cb38d8
 
